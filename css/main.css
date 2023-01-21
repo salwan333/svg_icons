@@ -1,9 +1,20 @@
-body {
-    background-color: white;
-  }
+header{
+  text-align: center;
+  text-size-adjust: large;
+  background-color: rgb(147, 147, 154);
+  color: black;
+}
+footer{
+  color: black;
+  text-decoration-color: rgb(226, 43, 43);
+  text-align: center;
+  text-size-adjust: 60px;
+  background-color: rgb(135, 134, 137);
+}
+
+section{
+  text-align: center;
+  background-color: rgb(97, 38, 152);
+  text-size-adjust: 60px;
   
-  body.dark-mode {
-    background-color: black;
-    color: white;
-  }
-  
+}
