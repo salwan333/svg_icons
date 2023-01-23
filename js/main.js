@@ -1,7 +1,8 @@
-var button = document.querySelector('button');
-var body = document.querySelector('body');
+console.log('javascript is running!');
 
-button.addEventListener('click', function() {
-  body.classList.toggle('dark-mode');
-});
+let book = document.querySelector('#book');
+function logid(){
+    console.log(this.id);
+}
+book.addEventListener('click',logid);
 
