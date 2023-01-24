@@ -3,18 +3,29 @@ header{
   text-size-adjust: large;
   background-color: rgb(147, 147, 154);
   color: black;
+  height: 100px;
 }
 footer{
   color: black;
   text-decoration-color: rgb(226, 43, 43);
   text-align: center;
-  text-size-adjust: 60px;
+  text-size-adjust: large;
   background-color: rgb(135, 134, 137);
+  height: 100px;
 }
 
 section{
   text-align: center;
-  background-color: rgb(97, 38, 152);
+  background-color: lightpink;
   text-size-adjust: 60px;
   
 }
+#book:hover{
+  cursor: pointer blue;
+  
+}
+#p2{
+  text-size-adjust: 100px;
+
+}
+
