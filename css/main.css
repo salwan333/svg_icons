@@ -21,8 +21,8 @@ section{
   
 }
 #book:hover{
-  cursor: pointer blue;
-  
+  /* cursor: pointer blue; */
+ border: thin solid green; 
 }
 #p2{
   text-size-adjust: 100px;
