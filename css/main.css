@@ -1,7 +1,7 @@
 header{
   text-align: center;
   text-size-adjust: large;
-  background-color: rgb(147, 147, 154);
+  background-color: rgb(178, 134, 186);
   color: black;
   height: 100px;
 }
@@ -10,7 +10,7 @@ footer{
   text-decoration-color: rgb(226, 43, 43);
   text-align: center;
   text-size-adjust: large;
-  background-color: rgb(135, 134, 137);
+  background-color: rgb(187, 161, 240);
   height: 100px;
 }
 
@@ -24,11 +24,7 @@ section{
   /* cursor: pointer blue; */
  border: thick solid green; 
 }
-#p2{
-  text-size-adjust: large;
 
-
-}
 
 #supermario:hover{
   /* cursor: pointer blue; */
@@ -57,4 +53,10 @@ section{
 
 #foot:hover{
   border:thick solid red
+}
+
+#anchor:hover #book {fill:red;}
+
+#p2{
+  text-size-adjust: 100px;
 }
